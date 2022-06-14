@@ -1,8 +1,3 @@
-### À procura de alguém front-ender pra deixar isso bonitinho ^^ 👋
-
-Qual é o resultado ?
-
-
 
 <!DOCTYPE html>
 
