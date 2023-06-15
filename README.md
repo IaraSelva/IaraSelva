@@ -1,3 +1,4 @@
+I'm a curious soul and here I share what I've been personally studying in programming outside my work as developer.
 <!--
 **IaraSelva/IaraSelva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
